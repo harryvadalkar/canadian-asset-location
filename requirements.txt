@@ -1,0 +1,6 @@
+# Core dependencies (all from Python standard library — no external packages required)
+# The tax engine uses only Python builtins: dataclasses, math, copy, random, csv, json
+
+# Optional — for figure generation and analysis
+matplotlib>=3.7
+numpy>=1.24
